@@ -1,19 +1,96 @@
-# React + Vite
+# 🚀 Venkata Naga Karthik Reddy - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About Me
 
-Currently, two official plugins are available:
+Python Full Stack Developer and AI Intern with hands-on experience in Django, React.js, REST APIs, MySQL, Docker, Jenkins, and AWS EC2. Passionate about building scalable web applications, cloud-based solutions, and AI-powered platforms.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Portfolio Features
 
-## React Compiler
+* Responsive Modern UI
+* Project Showcase
+* Skills & Technologies
+* Internship Experience
+* Certifications & Achievements
+* Resume Download
+* Contact Form
+* GitHub & LinkedIn Integration
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+### Frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
 
-# Portfolio
-This is for my Projects and details Showcasing
+### Backend
+
+* Python
+* Django
+* Django REST Framework
+
+### Database
+
+* MySQL
+* SQLite
+
+### Cloud & DevOps
+
+* AWS EC2
+* Docker
+* Jenkins
+* GitHub
+
+### AI Tools
+
+* ChatGPT
+* Cursor AI
+* Anti Gravity AI
+* Genspark
+* Ollama
+* Gemma 2B
+
+## Featured Projects
+
+### Student Task & Portfolio Repository
+
+* Full-stack academic management platform
+* JWT Authentication & Role-Based Access Control
+* AI Portfolio Generation using Ollama & Gemma 2B
+* Dockerized Deployment
+* Cloud Hosting Support
+
+### Placement Management System
+
+* Student-Job Matching Platform
+* Dashboard Analytics
+* Secure Authentication
+* REST API Integration
+* AWS EC2 Deployment
+
+### Online Examination Platform
+
+* Secure Online Examinations
+* Timed Assessments
+* Automated Evaluation
+* Role-Based Access Control
+
+## Contact
+
+Email: [karthikreddybodapati@gmail.com](mailto:karthikreddybodapati@gmail.com)
+
+LinkedIn:
+https://www.linkedin.com/in/venkata-naga-karthik-reddy-bodapati-051220234/
+
+GitHub:
+https://github.com/karthikreddy802
+
+## Resume
+
+Download the latest resume directly from the portfolio website.
+
+---
+
+Built with ❤️ by Venkata Naga Karthik Reddy
